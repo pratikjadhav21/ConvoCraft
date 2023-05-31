@@ -4,7 +4,7 @@ Developed an android application cloning the features of Zoom, the popular video
 ## Main idea
 The main idea of this application is to try and apply my android development skills to develop something that can boost my interest in android development.
 - **Video Conference**: Users can create or join a meeting/conference using the meeting id.
-- **Video Call**: Make one-on-onec call to your contacts in the app.
+- **Video Call**: Make one-on-one call to your contacts in the app.
 - **Audio Call**: Audio call any one from your contacts using VoIP.
 - **Chat**: Users will be able to chat with their contacts just like Whatsapp. 
 
