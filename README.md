@@ -1,8 +1,8 @@
-# Zoom
-Developed an android application cloning the features of Zoom, the popular video conferencing app, plus adding extra features such as chat, audio call.
+# ConvoCraft
+Connect effortlessly through video conferences, one-to-one and group chats, and high-quality audio calls. ConvoCraft, the all-in-one communication app is perfect for work collaboration, group discussions, or catching up with friends. 
 
 ## Main idea
-The main idea of this application is to try and apply my android development skills to develop something that can boost my interest in android development.
+The main idea of this application is to try and apply my android development skills to develop:
 - **Video Conference**: Users can create or join a meeting/conference using the meeting id.
 - **Video Call**: Make one-on-one call to your contacts in the app.
 - **Audio Call**: Audio call any one from your contacts using VoIP.
